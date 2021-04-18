@@ -11,15 +11,16 @@
         - losses_accs.npz<br>  
         - losses_accs_visualization.png<br>  
         - test_result.txt<br>   
-    - main.py<br>
-    - LeNet5.py<br>
-    - LeNet5_caller.py<br>
     - utils<br>
         - basic_utils.py<br>
         - cp_utils.py<br>
         - dataset_utils.py<br>
         - learning_env_setting.py<br>
         - train_validation_test.py<br><br>  
+    - main.py<br>
+    - LeNet5.py<br>
+    - LeNet5_caller.py<br>
+
 
 
 ---
