@@ -1,22 +1,22 @@
-# tensorflow_practice
+# tensorflow_practice<br>
 
-@author: Hongmin
-"""
+@author: Hongmin<br>
 
-'''
--- project directory
-    -- main.py
-    -- models.py
-    -- utils.py
-        -- basic_utils.py
-        -- cp_utils.py
-        -- dataset_utils.py
-        -- learning_env_setting.py
-        -- train_validation_test.py   
-    -- train1
-        -- confusion_matrix
-        -- model
-        -- losses_accs.npz
-        -- losses_accs_visualization.png
-        -- test_result.txt
+
+'''<br>
+-- project directory <br>
+    -- main.py<br>
+    -- models.py<br>
+    -- utils.py<br>
+        -- basic_utils.py<br>
+        -- cp_utils.py<br>
+        -- dataset_utils.py<br>
+        -- learning_env_setting.py<br>
+        -- train_validation_test.py   <br><br>
+    -- train1<br>
+        -- confusion_matrix<br>
+        -- model<br>
+        -- losses_accs.npz<br>
+        -- losses_accs_visualization.png<br>
+        -- test_result.txt<br>
 '''
