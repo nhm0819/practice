@@ -12,8 +12,7 @@
         -- cp_utils.py
         -- dataset_utils.py
         -- learning_env_setting.py
-        -- train_validation_test.py
-        
+        -- train_validation_test.py   
     -- train1
         -- confusion_matrix
         -- model
