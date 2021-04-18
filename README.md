@@ -12,7 +12,8 @@
         - losses_accs_visualization.png<br>  
         - test_result.txt<br>   
     - main.py<br>
-    - models.py<br>
+    - LeNet5.py<br>
+    - LeNet5_caller.py<br>
     - utils<br>
         - basic_utils.py<br>
         - cp_utils.py<br>
