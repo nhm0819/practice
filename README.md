@@ -17,7 +17,6 @@
         - dataset_utils.py<br>
         - learning_env_setting.py<br>
         - train_validation_test.py<br><br>  
-    - main.py<br>
     - LeNet5.py<br>
     - LeNet5_caller.py<br>
 
