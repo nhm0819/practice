@@ -3,7 +3,8 @@
 @author: Hongmin<br>
 
 
----<br>
+---
+
 - project directory <br><br>  
     - exp_train<br>
         - confusion_matrix<br>  
@@ -19,6 +20,7 @@
         - train_validation_test.py<br><br>  
     - LeNet5.py<br>
     - LeNet5_caller.py<br>
+    - models.py<br>
 
 
 
